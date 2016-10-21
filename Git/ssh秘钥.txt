@@ -1,0 +1,3 @@
+cd ~
+cd .ssh/没有的话 mkdir .ssh && cd .ssh
+ssh-keygen -t rsa -C "785186047@qq.com"
